@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caio Sousa\\Desktop\\root\\CleanArchSolution\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Caio Sousa\\Desktop\\root\\CleanArchSolution\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Caio Sousa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caio Sousa\\Desktop\\root\\CleanArchSolution\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
