@@ -64,3 +64,5 @@ C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\obj
 C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\obj\Debug\net7.0\WebApi.pdb
 C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Application.dll
+C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Application.pdb
