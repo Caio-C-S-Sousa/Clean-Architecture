@@ -10,6 +10,7 @@
         "dependencies": {
           "Application": "1.0.0",
           "Core": "1.0.0",
+          "Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.10",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -87,6 +88,14 @@
         "runtime": {
           "Core.dll": {}
         }
+      },
+      "Infrastructure/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -151,6 +160,11 @@
       "sha512": ""
     },
     "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

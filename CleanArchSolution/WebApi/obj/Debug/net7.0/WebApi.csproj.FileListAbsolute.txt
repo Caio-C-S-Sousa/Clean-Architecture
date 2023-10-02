@@ -68,3 +68,5 @@ C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin
 C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Application.pdb
 C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Core.dll
 C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Core.pdb
+C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Caio Sousa\Desktop\root\Clean-Architecture\CleanArchSolution\WebApi\bin\Debug\net7.0\Infrastructure.pdb

@@ -130,6 +130,19 @@
         "runtime": {
           "bin/placeholder/Core.dll": {}
         }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -493,12 +506,18 @@
       "type": "project",
       "path": "../Core/Core.csproj",
       "msbuildProject": "../Core/Core.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
       "Core >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -540,6 +559,9 @@
             },
             "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\Core\\Core.csproj": {
               "projectPath": "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\Core\\Core.csproj"
+            },
+            "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Caio Sousa\\Desktop\\root\\Clean-Architecture\\CleanArchSolution\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
