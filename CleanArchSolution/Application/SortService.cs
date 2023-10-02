@@ -1,6 +1,8 @@
-﻿namespace Application;
+﻿using Core;
 
-public class SortService
+namespace Application;
+
+public class SortService: ISortService
 {
     public int[] BubbleSort(int[] array)
     {

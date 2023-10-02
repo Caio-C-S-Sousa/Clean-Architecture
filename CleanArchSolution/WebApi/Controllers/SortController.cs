@@ -1,4 +1,4 @@
-﻿using Application;
+﻿using Core;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers;
@@ -7,15 +7,17 @@ namespace WebApi.Controllers;
 [Route("[controller]")]
 public class SortController
 {
-    public SortController()
-    {
+    private readonly ISortService _sortService;
 
+    public SortController(ISortService sortService)
+    {
+        _sortService = sortService;
     }
 
     [HttpPost]
     public IEnumerable<int> Sort(int[] array)
     {
-        var result = new SortService().BubbleSort(array);
+        var result = _sortService.BubbleSort(array);
 
         return result;
     }
